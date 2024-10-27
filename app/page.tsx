@@ -22,7 +22,7 @@ const Home = () => {
             Your <span className="text-yellow-400">Vision</span> Our <span className="text-yellow-400 ">Design</span>
           </h1>
           <p className="mt-2 text-gray-800 text-base md:text-sm"> {/* Decreased font size */}
-            &apos;Welcome&apos; Your home is a canvas waiting to be transformed. With our tailored interior design services, we bring your vision to life, creating spaces that are both beautiful and functional. Let's design your dream together.
+            &apos;Welcome&apos; Your home is a canvas waiting to be transformed. With our tailored interior design services&apos; we bring your vision to life&apos; creating spaces that are both beautiful and functional. Let's design your dream together.
           </p>
           <div className="mt-4">
             <span className="block text-gray-800 font-medium">Check our design</span>
