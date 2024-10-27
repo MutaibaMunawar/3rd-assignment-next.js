@@ -84,7 +84,7 @@ const Design = () => {
             />
             <div className="p-4">
               <h3 className="text-xl font-semibold">Basement Flooring</h3>
-              <p className="mt-2 text-gray-600">Elevate your basement's style and comfort with flooring that combines durability and warmth&apos; perfect for any space.</p>
+              <p className="mt-2 text-gray-600">Elevate your basement&apos;s style and comfort with flooring that combines durability and warmth&apos; perfect for any space.</p>
              
             </div>
           </div>
